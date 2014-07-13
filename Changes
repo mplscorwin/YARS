@@ -1,0 +1,6 @@
+Revision history for Perl extension YARS.
+
+0.01  Sun Jul 13 13:43:42 2014
+	- original version; created by h2xs 1.23 with options
+		-X -O --name YARS
+
